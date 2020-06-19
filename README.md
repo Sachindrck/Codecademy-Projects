@@ -16,3 +16,4 @@ What segments of users exist? <br>
 
 3. Compare the churn rates between user segments.
   -Which segment of users should the company focus on expanding?
+<img src = "https://github.com/Sachindrck/Codecademy-Projects/blob/master/project_codeflix/result.PNG">
