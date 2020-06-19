@@ -5,7 +5,7 @@
 
 In this project, we will analyze different Warby Parker’s marketing funnels in order to calculate conversion rates.
 
-## User churn
+## User Churn with Codeflix
 Codeflix, a streaming video startup, is interested in measuring their user churn rate. In this project, we’ll be helping them answer these questions about their churn:
 
 1. Get familiar with the company.
