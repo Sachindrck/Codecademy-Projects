@@ -1,4 +1,4 @@
-# Codecademy-Projects
+# Codecademy-Projects :beginner: :100:
 
 ## Usage Funnels with Warby Parker
 [Warby Parker](https://www.warbyparker.com/) is a transformative lifestyle brand with a lofty objective: to offer designer eyewear at a revolutionary price while leading the way for socially conscious businesses. Founded in 2010 and named after two characters in an early Jack Kerouac journal, Warby Parker believes in creative thinking, smart design, and doing good in the world. For every pair of eyeglasses and sunglasses sold, a pair is distributed to someone in need.
@@ -16,4 +16,7 @@ What segments of users exist? <br>
 
 3. Compare the churn rates between user segments.
   -Which segment of users should the company focus on expanding?
+#### The Schema of the given database is :pencil:
+<img src = "https://github.com/Sachindrck/Codecademy-Projects/blob/master/project_codeflix/schema.PNG"><br>
+#### Result :star2:
 <img src = "https://github.com/Sachindrck/Codecademy-Projects/blob/master/project_codeflix/result.PNG">
