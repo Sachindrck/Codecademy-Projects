@@ -25,7 +25,7 @@ cart_visitors = visit_cart[visit_cart.cart_time.isnull()]
 #print(len(cart_visitors))
 
 
-print("1. Visitors but not added any item into cart: {}".format(round(100.0 * len(cart_visitors) / len(visit_cart), 2)))
+print("1. Visitors but not added any item into cart: {}%".format(round(100.0 * len(cart_visitors) / len(visit_cart), 2)))
 
 
 cart_checkout = pd.merge(cart, checkout, how='left')
@@ -35,13 +35,13 @@ cart_checkout = pd.merge(cart, checkout, how='left')
 not_purchased = len(cart_checkout[cart_checkout.checkout_time.isnull()])
 #print(not_purchased)
 
-print("2. Added item to cart but doesn't checkout: {}".format(round(100.0 * not_purchased / len(cart_checkout), 3)))
-
+print("2. Added item to cart but doesn't checkout: {}%".format(round(100.0 * not_purchased / len(cart_checkout), 3)))
 
 
 all_data = visits.merge(cart, how='left').merge(checkout, how='left').merge(purchase, how='left')
-#print(all_data.head())
+#print(all_data.head(10))
 
 checkout_num = len(all_data[~all_data.checkout_time.isnull()])
-purchased_num = len(all_data[~all_data.purchase_time.isnull()])
-print("3. checkout but doesn't purchased : {}".format(round(100.0 * purchased_num / checkout_num, 2)))
+purchased_num = len(all_data[(~all_data.checkout_time.isnull()) & (all_data.purchase_time.isnull())])
+
+print("3. checkout but doesn't purchased : {}%".format(round(100.0 * purchased_num / checkout_num, 2)))
