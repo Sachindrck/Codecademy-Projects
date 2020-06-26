@@ -51,5 +51,5 @@ print("3. checkout but doesn't purchased : {}%".format(round(100.0 * purchased_n
 
 all_data['time_to_purchase'] = all_data.purchase_time - all_data.visit_time
 
-print(all_data.time_to_purchase)
+#print(all_data.time_to_purchase)
 print(all_data.time_to_purchase.mean())
