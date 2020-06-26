@@ -45,3 +45,11 @@ checkout_num = len(all_data[~all_data.checkout_time.isnull()])
 purchased_num = len(all_data[(~all_data.checkout_time.isnull()) & (all_data.purchase_time.isnull())])
 
 print("3. checkout but doesn't purchased : {}%".format(round(100.0 * purchased_num / checkout_num, 2)))
+
+
+# Average time to purchase
+
+all_data['time_to_purchase'] = all_data.purchase_time - all_data.visit_time
+
+print(all_data.time_to_purchase)
+print(all_data.time_to_purchase.mean())
