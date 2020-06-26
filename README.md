@@ -29,3 +29,6 @@ In this case, our funnel is going to describe the following process:
 2. A user adds a t-shirt to their cart
 3. A user clicks “checkout”
 4. A user actually purchases a t-shirt
+
+#### Result :star2:
+<img src = "https://github.com/Sachindrck/Codecademy-Projects/blob/master/e-commerce%20website%20funnel/result.PNG">
