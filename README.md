@@ -34,3 +34,7 @@ In this case, our funnel is going to describe the following process:
 The issue with Cool T-Shirts Inc. e-commerce website is **above 80%** of users are unable to find the t-shirt of their choice. They should need to **improve there UI** and need to **implement a better Recommender System.**
 
 <img src = "https://github.com/Sachindrck/Codecademy-Projects/blob/master/e-commerce%20website%20funnel/result.PNG">
+
+##### Average time taken by user from home page to the completion of purchase:
+
+<img src = "https://github.com/Sachindrck/Codecademy-Projects/blob/master/e-commerce%20website%20funnel/time_to_pur.PNG">
