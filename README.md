@@ -44,14 +44,14 @@ The issue with Cool T-Shirts Inc. e-commerce website is **above 80%** of users a
 The Magic 8-Ball is a super popular toy used for fortune-telling or seeking advice, developed in the 1950s! 
 The answers inside a standard Magic 8-Ball are:
 
-1. It is certain.                      11. As I see it, yes.
-2. It is decidedly so.                 12. Reply hazy, try again.
-3. Without a doubt.                    13. Ask again later.
-4. Yes - definitely.                   14. Better not tell you now.
-5. You may rely on it.                 15. Cannot predict now.
-6. As I see it, yes.                   16. Concentrate and ask again.
-7. Most likely.                        17. Don't count on it.
-8. Outlook good.                       18. My reply is no.
-9. Yes.                                19. My sources say no.
-10. Signs point to yes.                20. Outlook not so good.
+1. It is certain. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 11. As I see it, yes.
+2. It is decidedly so. &emsp;&emsp;&emsp;&emsp; 12. Reply hazy, try again.
+3. Without a doubt. &emsp;&emsp;&emsp;&emsp; 13. Ask again later.
+4. Yes - definitely. &emsp;&emsp;&emsp;&emsp;&emsp; 14. Better not tell you now.
+5. You may rely on it. &emsp;&emsp;&emsp;&ensp; 15. Cannot predict now.
+6. As I see it, yes. &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; 16. Concentrate and ask again.
+7. Most likely. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp; 17. Don't count on it.
+8. Outlook good. &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; 18. My reply is no.
+9. Yes.  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; 19. My sources say no.
+10. Signs point to yes. &emsp;&emsp;&emsp;&ensp; 20. Outlook not so good.
 21. Very doubtful.
