@@ -56,4 +56,5 @@ The answers inside a standard Magic 8-Ball are:
 10. Signs point to yes. &emsp;&emsp;&emsp;&ensp; 20. Outlook not so good.
 21. Very doubtful.
 
+#### Result :star2:
 <img src = "https://github.com/Sachindrck/Codecademy-Projects/blob/master/magic_8_ball/magic8ball.PNG">
