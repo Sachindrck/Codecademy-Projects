@@ -1,4 +1,4 @@
-﻿# Codecademy-Projects :beginner: :100:
+# Codecademy-Projects :beginner: :100:
 
 ## Usage Funnels with Warby Parker
 [Warby Parker](https://www.warbyparker.com/) is a transformative lifestyle brand with a lofty objective: to offer designer eyewear at a revolutionary price while leading the way for socially conscious businesses. Founded in 2010 and named after two characters in an early Jack Kerouac journal, Warby Parker believes in creative thinking, smart design, and doing good in the world. For every pair of eyeglasses and sunglasses sold, a pair is distributed to someone in need.
@@ -38,3 +38,20 @@ The issue with Cool T-Shirts Inc. e-commerce website is **above 80%** of users a
 ##### Average time taken by user from home page to the completion of purchase:
 
 <img src = "https://github.com/Sachindrck/Codecademy-Projects/blob/master/e-commerce%20website%20funnel/time_to_pur.PNG">
+
+## Magic 8-Ball
+
+The Magic 8-Ball is a super popular toy used for fortune-telling or seeking advice, developed in the 1950s! 
+The answers inside a standard Magic 8-Ball are:
+
+1. It is certain.                      11. As I see it, yes.
+2. It is decidedly so.                 12. Reply hazy, try again.
+3. Without a doubt.                    13. Ask again later.
+4. Yes - definitely.                   14. Better not tell you now.
+5. You may rely on it.                 15. Cannot predict now.
+6. As I see it, yes.                   16. Concentrate and ask again.
+7. Most likely.                        17. Don't count on it.
+8. Outlook good.                       18. My reply is no.
+9. Yes.                                19. My sources say no.
+10. Signs point to yes.                20. Outlook not so good.
+21. Very doubtful.
