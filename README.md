@@ -55,3 +55,5 @@ The answers inside a standard Magic 8-Ball are:
 9. Yes.  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; 19. My sources say no.
 10. Signs point to yes. &emsp;&emsp;&emsp;&ensp; 20. Outlook not so good.
 21. Very doubtful.
+
+<img src = "https://github.com/Sachindrck/Codecademy-Projects/blob/master/magic_8_ball/magic8ball.PNG">
