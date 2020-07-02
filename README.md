@@ -91,3 +91,7 @@ You may have played Rock, Paper, Scissors, but have you played Rock, Paper, Scis
 8. Paper disproves Spock.
 9. Spock vaporizes Rock.
 10. (and as it always has) Rock crushes Scissors.
+
+#### Result :star2:
+
+<img src = "https://github.com/Sachindrck/Codecademy-Projects/blob/master/RockPSLS/rpsls.PNG">
