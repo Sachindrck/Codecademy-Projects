@@ -78,3 +78,16 @@ The Sorting Hat is a talking hat at Hogwarts that magically determines which of 
 You may have played Rock, Paper, Scissors, but have you played Rock, Paper, Scissors, Lizard, Spock? This is the infamous game brought to popularity with the TV show The Big Bang Theory.
 #### Note from the creator, Sam Kass:
 “I invented this game (with Karen Bryla) because it seems like when you know someone well enough, 75-80% of any Rock Paper Scissors games you play with that person end up in a tie. Well, here is a slight variation that reduces that probability. This version is also nice because it satisfies the Law of Fives.”
+
+#### The logic:
+
+1. Scissors cuts Paper.
+2. Paper covers Rock.
+3. Rock crushes Lizard.
+4. Lizard poisons Spock.
+5. Spock smashes Scissors.
+6. Scissors decapitate Lizard.
+7. Lizard eats Paper.
+8. Paper disproves Spock.
+9. Spock vaporizes Rock.
+10. (and as it always has) Rock crushes Scissors.
