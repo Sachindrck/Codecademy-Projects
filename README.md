@@ -103,3 +103,7 @@ You may have played Rock, Paper, Scissors, but have you played Rock, Paper, Scis
 Invaders from outer space have arrived and are abducting humans using tractor beams. Players must crack the codeword to stop the abduction!
 
 Ok, we’ll admit it’s quite a bit like that classic game, “Hangman”, but with a better premise. Plus, building this command-line game was the Codecademy 2019 Software Engineer Internship Backend Programming Challenge!
+
+#### Result :start2:
+
+<img src = "https://github.com/Sachindrck/Codecademy-Projects/blob/master/ufo/result_ufo.PNG">
