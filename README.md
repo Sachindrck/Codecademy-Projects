@@ -97,3 +97,9 @@ You may have played Rock, Paper, Scissors, but have you played Rock, Paper, Scis
 <img src = "https://github.com/Sachindrck/Codecademy-Projects/blob/master/RockPSLS/rpsls.PNG">
 
 ## UFO
+
+#### The premise:
+
+Invaders from outer space have arrived and are abducting humans using tractor beams. Players must crack the codeword to stop the abduction!
+
+Ok, we’ll admit it’s quite a bit like that classic game, “Hangman”, but with a better premise. Plus, building this command-line game was the Codecademy 2019 Software Engineer Internship Backend Programming Challenge!
