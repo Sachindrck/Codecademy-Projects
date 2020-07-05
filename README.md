@@ -106,4 +106,4 @@ Ok, we’ll admit it’s quite a bit like that classic game, “Hangman”, but 
 
 #### Result :start2:
 
-<img src = "https://github.com/Sachindrck/Codecademy-Projects/blob/master/ufo/result_ufo.PNG">
+<img src = "https://github.com/Sachindrck/Codecademy-Projects/blob/master/ufo/result_ufo.PNG" height = "400px">
